@@ -8,5 +8,5 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "com.github.tvbox.osc.tk";
   public static final String BUILD_TYPE = "debug";
   public static final int VERSION_CODE = 1;
-  public static final String VERSION_NAME = "1.0.20231017_1417";
+  public static final String VERSION_NAME = "1.0.20231018_2118";
 }
